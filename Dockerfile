@@ -5,7 +5,7 @@ ENV PYTHONPATH '/app/Web-API:/app/Shared-Libraries/Python:/app/Data-Export:/app/
 ENV LD_LIBRARY_PATH "/usr/local/lib/:LD_LIBRARY_PATH"
 ENV ANSIBLE_CONNECTION local
 ENV GIT_SSL_NO_VERIFY true
-
+COPY *.txt /app
 ##################################
 # Install EPEL repo
 ##################################
