@@ -9,7 +9,7 @@ click==4.1
 cligj==0.4.0
 decorator==4.0.9
 Fiona==1.5.0
-Flask==0.10.1
+Flask==1.0
 funcsigs==0.4
 fuzzywuzzy==0.8.2
 flower==0.9.1
