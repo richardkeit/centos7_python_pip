@@ -53,11 +53,11 @@ xlrd==0.9.4
 XlsxWriter==0.9.3
 stompest==2.2.6
 paramiko==2.1.1
-cryptography==1.7.1
+cryptography==3.2
 cffi==1.9.1
 pycparser==2.17
 enum34==1.1.6
-cryptography==1.7.1
+cryptography==3.2
 ipaddress==1.0.17
 pyasn1==0.1.9
 scp==0.10.2
