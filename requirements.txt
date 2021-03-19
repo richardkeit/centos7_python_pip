@@ -17,7 +17,7 @@ futures==3.0.5
 #GDAL==1.11.3
 GeoAlchemy2==0.2.6
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 keyring==8.4.1
 kombu==3.0.30
 lxml==3.4.1
